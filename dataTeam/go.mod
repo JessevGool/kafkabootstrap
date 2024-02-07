@@ -1,4 +1,4 @@
-module kafkabootstrap
+module dataTeam
 
 go 1.21.5
 
